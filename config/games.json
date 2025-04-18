@@ -14,6 +14,11 @@
     "imgSrc": "projects/2048/thumb.png",
     "title": "2048"
   },
+   {
+    "link": "projects/fnaw/index.html",
+    "imgSrc": "projects/fnaw/splash.png",
+    "title": "FNAW"
+  },
   {
     "link": "projects/9007199254740992/index.html",
     "imgSrc": "projects/9007199254740992/logo-4.png",
