@@ -15,6 +15,16 @@
     "title": "2048"
   },
    {
+    "link": "projects/rythm-doctor/index.html",
+    "imgSrc": "projects/rythm-doctor/thumb.png",
+    "title": "Rythm doctor"
+  },
+   {
+    "link": "projects/baldis-basics/index.html",
+    "imgSrc": "projects/baldis-basics/splash.png",
+    "title": "Baldi's Basics"
+  },
+   {
     "link": "projects/fnaw/index.html",
     "imgSrc": "projects/fnaw/splash.png",
     "title": "FNAW"
