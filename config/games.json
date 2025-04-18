@@ -305,9 +305,9 @@
     "title": "Game Inside a Game Inside a Game..."
   },
   {
-    "link": "projects/geodash/index.html",
-    "imgSrc": "projects/geodash/geoscratchicon.png",
-    "title": "Geometry Dash (Scratch)"
+    "link": "projects/geodashlite/index.html",
+    "imgSrc": "projects/geodashlite/geodashlite.png",
+    "title": "Geometry Dash"
   },
   {
     "link": "projects/getaway-shootout/index.html",
@@ -420,9 +420,9 @@
     "title": "Meme 2048"
   },
   {
-    "link": "projects/minecraft/index.html",
-    "imgSrc": "projects/minecraft/splash.jpeg",
-    "title": "Eaglercraft"
+    "link": "projects/eagler/index.html",
+    "imgSrc": "projects/eagler/img/old.png",
+    "title": "Minecraft"
   },
   {
     "link": "projects/minecraft-classic/index.html",
@@ -751,7 +751,7 @@
   },
    {
     "link": "projects/shellshockers/index.html",
-    "imgSrc": "projects/you-are-bezos/img/favicon.jpg",
+    "imgSrc": "projects/shellshockers/img/favicon.jpg",
     "title": "Shell Shockers"
   }
 ]
