@@ -723,5 +723,15 @@
     "link": "projects/you-are-bezos/index.html",
     "imgSrc": "projects/you-are-bezos/img/banner.png",
     "title": "You Are Jeff Bezos"
+  },
+   {
+    "link": "projects/roblox/index.html",
+    "imgSrc": "projects/roblox/splash.png",
+    "title": "Roblox"
+  },
+   {
+    "link": "projects/shellshockers/index.html",
+    "imgSrc": "projects/you-are-bezos/img/favicon.jpg",
+    "title": "Shell Shockers"
   }
 ]
